@@ -1,7 +1,7 @@
-// //we can difine variable in two ways:
-// var data1;
-// //or
-// let data2;
+//we can difine variable in two ways:
+var data1;
+//or
+let data2;
 // //we can fill them like here:
 // data1=1;
 // data2=3;
